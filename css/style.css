@@ -99,7 +99,7 @@ body {
 .details .box .boxes-details h2 {
   font-weight: 400;
   font-size: 22px;
-  color: #bfab7b;
+  color: var(--secondary-alt-color);
 }
 
 .details .icon i {
@@ -113,7 +113,7 @@ body {
 }
 
 .notarization .sec-details h4 {
-  color: #bfab7b;
+  color: var(--secondary-alt-color);
 }
 
 /* mofa section */
@@ -147,7 +147,7 @@ body {
 }
 
 .mofa .box h5 {
-  color: #434343;
+  color: var(--primary-color);
 }
 
 /* translation section */
@@ -176,12 +176,12 @@ body {
 .translation .service-box .icon {
   font-size: 3rem;
   margin-bottom: 15px;
-  color: #434343;
+  color: var(--primary-color);
 }
 
 .translation h4 {
   font-size: 1.4rem;
-  color: #bfab7b;
+  color: var(--secondary-alt-color);
   margin-bottom: 15px;
 }
 
@@ -197,7 +197,7 @@ body {
 }
 
 .details .details-heading {
-  color: #bfab7b;
+  color: var(--secondary-alt-color);
 }
 
 .sec-heading {
