@@ -176,6 +176,12 @@
   color: #495057;
 }
 
+/* verification */
+.verification {
+  margin-top: 100px;
+  background-color: #f8f9fa;
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .sub-links {
