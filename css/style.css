@@ -189,12 +189,14 @@ body {
   font-size: 1.1rem;
   color: #495057;
 }
+/* end translation section */
 
 /* verification */
 .verification {
   margin-top: 100px;
   background-color: #f8f9fa;
 }
+/* end verification */
 
 .details .details-heading {
   color: var(--secondary-alt-color);
@@ -219,10 +221,6 @@ body {
 }
 .sec-heading:hover::after {
   width: 100%;
-}
-
-.verification .sec-heading::before {
-  left: 12px;
 }
 
 /* Responsive adjustments */
